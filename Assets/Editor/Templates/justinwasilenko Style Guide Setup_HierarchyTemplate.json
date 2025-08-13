@@ -1,0 +1,115 @@
+{
+    "Name": "justinwasilenko Style Guide Setup",
+    "RootNodes": [
+        {
+            "Name": "@System",
+            "Children": []
+        },
+        {
+            "Name": "@Debug",
+            "Children": []
+        },
+        {
+            "Name": "@Management",
+            "Children": [
+                {
+                    "Name": "GameManager",
+                    "Children": []
+                },
+                {
+                    "Name": "LevelManager",
+                    "Children": []
+                },
+                {
+                    "Name": "UIManager",
+                    "Children": []
+                },
+                {
+                    "Name": "AudioManager",
+                    "Children": []
+                }
+            ]
+        },
+        {
+            "Name": "@UI",
+            "Children": [
+                {
+                    "Name": "Layouts",
+                    "Children": []
+                }
+            ]
+        },
+        {
+            "Name": "Cameras",
+            "Children": []
+        },
+        {
+            "Name": "Lights",
+            "Children": [
+                {
+                    "Name": "Volumes",
+                    "Children": []
+                }
+            ]
+        },
+        {
+            "Name": "Particles",
+            "Children": []
+        },
+        {
+            "Name": "Sound",
+            "Children": []
+        },
+        {
+            "Name": "World",
+            "Children": [
+                {
+                    "Name": "Global",
+                    "Children": []
+                },
+                {
+                    "Name": "Room1",
+                    "Children": [
+                        {
+                            "Name": "Architecture",
+                            "Children": []
+                        },
+                        {
+                            "Name": "Terrain",
+                            "Children": []
+                        },
+                        {
+                            "Name": "Props",
+                            "Children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Gameplay",
+            "Children": [
+                {
+                    "Name": "Actors",
+                    "Children": []
+                },
+                {
+                    "Name": "Items",
+                    "Children": []
+                },
+                {
+                    "Name": "Triggers",
+                    "Children": []
+                },
+                {
+                    "Name": "Quests",
+                    "Children": []
+                }
+            ]
+        },
+        {
+            "Name": "_Dynamic",
+            "Children": []
+        }
+    ]
+}
